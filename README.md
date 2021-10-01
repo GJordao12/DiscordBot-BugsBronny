@@ -1,8 +1,10 @@
 # Discord Bot Bugs Bronny
 
-Code of a "Bugs Bronny" Discord Bot, for a friend, with the following requested [commands](/commands):
+* Code of a "Bugs Bronny" Discord Bot, for a friend, with the requested [commands](/commands):
 
 * Prefix: "!"
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Commands that only admins/mods can use:
 
@@ -15,6 +17,8 @@ Code of a "Bugs Bronny" Discord Bot, for a friend, with the following requested 
 * !warn @someone -> Leave a "mark" on the person (after 3 catch ban)
 * !warnings @someone -> Lets you see how many "marks" the person has
 * !delwarn @someone -> Takes 1 "warning" from the person
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  ## Anyone can use:
 
