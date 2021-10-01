@@ -59,3 +59,6 @@ Code of a "Bugs Bronny" Discord Bot, for a friend, with the following requested 
 (Whenever you go to the next level, you lost the old role)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Discord Bot Image:
+> <img src="">
