@@ -1,6 +1,6 @@
 # Discord Bot Bugs Bronny
 
-* Code of a "Bugs Bronny" Discord Bot, for a friend, with the requested [commands](/commands):
+Code of a "Bugs Bronny" Discord Bot, for a friend, with the requested [commands](/commands):
 
 * Prefix: "!"
 
