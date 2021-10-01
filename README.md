@@ -61,4 +61,4 @@ Code of a "Bugs Bronny" Discord Bot, for a friend, with the following requested 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Discord Bot Image:
-> <img src="">
+> <img src="https://github.com/GJordao12/DiscordBot-BugsBronny/blob/main/BotImage.png">
